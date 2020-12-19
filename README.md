@@ -1,2 +1,2 @@
-# accu
+# Accu
 Accu România
